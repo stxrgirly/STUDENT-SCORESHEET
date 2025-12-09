@@ -1,2 +1,2 @@
 # STUDENT-SCORESHEET
-![Screenshot for InvoicePrinter](studentrepordcardsystem.png)
+![Screenshot for InvoicePrinter](StudentRepordCardSystemOutput.png)
