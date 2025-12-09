@@ -1,2 +1,2 @@
 # STUDENT-SCORESHEET
-![Screenshot for studentreportcardsystem](StudentRepordCardSystemOutput.jpg)
+![Screenshot for studentreportcardsystem](StudentRepordCardSystemOutput.png)
