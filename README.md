@@ -1,2 +1,3 @@
-# STUDENT-SCORESHEET
-![Screenshot for studentreportcardsystem](StudentRepordCardSystemOutput.png)
+# Student Report Card System
+A system written in Java code, that takes in students' records: student name, marks for 6 subjects, and computes the sum of total marks and the rank (average) of the total marks for each of the 15 students, sums the total marks for each subject, average marks for each subject and grand total for the total marks of all the subjects, using loops and arrays to declare the constants and variables and displays the output in a table, to show the name of the school, teacher's name, grade and year and number of ranks collectively.
+![Screenshot for studentreportcardsystem](StudentReportCardSystemOutput.png) .
